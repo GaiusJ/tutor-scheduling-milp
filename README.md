@@ -1,4 +1,4 @@
-# Tutorial Planning Optimizer
+# Tutor Scheduling MILP Optimizer
 
 ![Preview](assets/preview.png)
 
